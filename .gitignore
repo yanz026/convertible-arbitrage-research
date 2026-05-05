@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+.Rhistory
+**/.Rhistory
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.icloud
+~$*

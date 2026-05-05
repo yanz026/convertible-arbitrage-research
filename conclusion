@@ -1,0 +1,11 @@
+Market Independence with Selective Credit Sensitivity – The strategy maintains a largely market-neutral profile, as evidenced by weak correlations with major equity indices. However, its exposure to high-yield credit markets (HYG) suggests that credit spreads and liquidity conditions may impact convertible bond pricing and overall strategy performance.
+
+Realized vs. Unrealized PnL Reflect Different Risk Profiles – Realized PnL, driven by executed trades, demonstrates lower volatility and stable returns, aligning with the structured arbitrage framework. In contrast, Unrealized PnL fluctuates more significantly, influenced by convertible bond re-pricings and market volatility, highlighting the importance of active position management.
+
+Capital Deployment and Leverage Management are Critical – The strategy effectively deploys capital but exhibits high skewness and kurtosis in available capital, suggesting concentrated bets in certain trades. Managing leverage efficiently is essential to mitigate liquidity risks and maintain sustainable portfolio exposure.
+
+Risk-Adjusted Performance Suggests Strategy Strength with Refinements Needed – The Sharpe ratio confirms that the strategy generates risk-adjusted returns, but the Treynor ratio for Unrealized PnL suggests that systematic risk exposure should be monitored. Fine-tuning hedge ratios and refining volatility assumptions could further improve performance consistency.
+
+Hedging Effectiveness and Downside Protection – The strategy successfully mitigates broad equity market drawdowns, as shown by low downside betas. However, slight negative exposure to Nasdaq (CCMP) and S&P 500 (SPX) indicates that unrealized losses may arise during strong equity rallies, suggesting a need to dynamically adjust hedges based on market conditions.
+
+Optimizing Position Sizing and Trade Execution Can Unlock More Value – Given that convertible arbitrage profitability depends on relative mispricings, improving execution efficiency (e.g., optimizing entry/exit timing, dynamic delta hedging, and monitoring stock borrow costs) could further enhance returns and reduce capital inefficiencies.
